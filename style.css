@@ -1,0 +1,50 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+  }
+  
+
+  
+  .box {
+    padding: 25px;
+    border-radius: 50%;
+    height: 100%;
+  }
+  
+  .red {
+    background: #ff0000;
+    width: 300px;
+    height: 300px;
+  }
+  
+  .orange {
+    background: #ffa500;
+    width: 250px;
+    height: 250px;
+  }
+  
+  .yellow {
+    background: #ffff00;
+    width: 200px;
+    height: 200px;
+  }
+  
+  .green {
+    background: #008000;
+    width: 150px;
+    height: 150px;
+  }
+  
+  .blue {
+    background: #0000ff;
+    width: 100px;
+    height: 100px;
+  }
+  
+  
+  .purple {
+    background: #800080;
+    width: 50px;
+    height: 50px;
+  }
